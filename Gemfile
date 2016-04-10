@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 
-
 gem 'json'
 gem 'grape'
 gem 'roar', '~> 0.12.0'
@@ -8,7 +7,6 @@ gem 'grape-swagger'
 gem 'ruby-maven'
 gem 'jbundler'
 gem 'puma'
-gem 'dotenv'
 
 group :development,:test do
   gem 'pry'
